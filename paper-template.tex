@@ -1,0 +1,46 @@
+\documentclass[12pt]{article}
+
+%\documentclass[a4paper,14pt]{extarticle} | In case a larger font is needed.
+
+\usepackage[english]{babel}
+\usepackage[top=3cm,bottom=3cm,left=3cm,right=3cm]{geometry}
+
+\linespread{1.25} %Interline.
+\usepackage{graphicx} %To insert images.
+%\usepackage[skip=10pt plus1pt, indent=20pt]{parskip} | Space after each paragraph.
+
+
+\usepackage{xcolor} %Color: use command of the form \textcolor{color}{text}.
+
+\usepackage{amssymb} 
+\usepackage{amsmath} %Math symbols.
+
+\usepackage{apacite}
+\bibliographystyle{apacite}
+
+\usepackage{lipsum} %Dummy text.
+
+\newcommand{\nameddefinition}[1]{\textbf{#1}} % Define a custom command for non-numbered theorem-like definitions.
+
+ 
+
+\title{Dummy Title}
+\author{Franco Menares Paredes}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\lipsum[1]
+\end{abstract}
+
+\lipsum[1]
+
+Citation sample: \cite{bradley2014aggregating}. Citation sample 2: \citeA{Zollman2010-ZOLTEB-2}.
+
+\newpage
+
+\bibliography{bibliography}
+
+\end{document}
