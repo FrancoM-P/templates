@@ -1,0 +1,248 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Dur{\'a}n%
+}{%
+Dur{\'a}n%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+duran.2020.WhatSimuMode}
+\APACinsertmetastar {%
+duran.2020.WhatSimuMode}%
+\begin{APACrefauthors}%
+Dur{\'a}n, J\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {What Is a {{Simulation Model}}?} {What is a {{Simulation Model}}?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Minds and Machines}{30}{3}{301--323}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1007/s11023-020-09520-z} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s11023-020-09520-z} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ghomi%
+\ \BBA {} Stegenga%
+}{%
+Ghomi%
+\ \BBA {} Stegenga%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+TabatabaeiGhomi2023-TABSOT-2}
+\APACinsertmetastar {%
+TabatabaeiGhomi2023-TABSOT-2}%
+\begin{APACrefauthors}%
+Ghomi, H\BPBI T.%
+\BCBT {}\ \BBA {} Stegenga, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Simulation of Trial Data to Test Speculative Hypotheses About Research Methods} {Simulation of trial data to test speculative hypotheses about research methods}.{\BBCQ}
+\newblock
+\BIn{} K.~Hens\ \BBA {} A.~de Block\ (\BEDS), \APACrefbtitle {Advances in experimental philosophy of medicine} {Advances in experimental philosophy of medicine}\ (\BPGS\ 111--128).
+\newblock
+\APACaddressPublisher{}{Bloomsbury Academic}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kitcher%
+}{%
+Kitcher%
+}{%
+{\protect \APACyear {1990}}%
+}]{%
+Kitcher1990-KITTDO}
+\APACinsertmetastar {%
+Kitcher1990-KITTDO}%
+\begin{APACrefauthors}%
+Kitcher, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1990}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Division of Cognitive Labor} {The division of cognitive labor}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Philosophy}{87}{1}{5--22}.
+\newblock
+\begin{APACrefDOI} \doi{10.2307/2026796} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kitcher%
+}{%
+Kitcher%
+}{%
+{\protect \APACyear {1995}}%
+}]{%
+kitcher.1995.AdvaScieScie}
+\APACinsertmetastar {%
+kitcher.1995.AdvaScieScie}%
+\begin{APACrefauthors}%
+Kitcher, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1995}.
+\newblock
+\APACrefbtitle {The Advancement of Science: Science without Legend, Objectivity without Illusions} {The advancement of science: Science without legend, objectivity without illusions}\ (\PrintOrdinal{1. issued as an Oxford Univ. Press paperback}\ \BEd).
+\newblock
+\APACaddressPublisher{New York}{Oxford University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Martini%
+\ \BBA {} Fernández~Pinto%
+}{%
+Martini%
+\ \BBA {} Fernández~Pinto%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+MartiniPinto2017}
+\APACinsertmetastar {%
+MartiniPinto2017}%
+\begin{APACrefauthors}%
+Martini, C.%
+\BCBT {}\ \BBA {} Fernández~Pinto, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Modeling the Social Organization of Science} {Modeling the social organization of science}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{European Journal for Philosophy of Science}{7}{2}{221--238}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mayo{-}Wilson%
+\ \BBA {} Zollman%
+}{%
+Mayo{-}Wilson%
+\ \BBA {} Zollman%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+Mayo-Wilson2021-MAYTCP-4}
+\APACinsertmetastar {%
+Mayo-Wilson2021-MAYTCP-4}%
+\begin{APACrefauthors}%
+Mayo{-}Wilson, C.%
+\BCBT {}\ \BBA {} Zollman, K\BPBI J\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Computational Philosophy: Simulation as a Core Philosophical Method} {The computational philosophy: Simulation as a core philosophical method}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Synthese}{199}{1-2}{3647--3673}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s11229-020-02950-3} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mohseni%
+}{%
+Mohseni%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+mohseni2024methods}
+\APACinsertmetastar {%
+mohseni2024methods}%
+\begin{APACrefauthors}%
+Mohseni, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Methods for Modelers of Science} {Methods for modelers of science}.{\BBCQ}
+\newblock
+\BIn{} J.~Veigl\ \BBA {} A.~Currie\ (\BEDS), \APACrefbtitle {Methods in the Philosophy of Science: A User’s Guide.} {Methods in the philosophy of science: A user’s guide.}
+\newblock
+\APACaddressPublisher{Cambridge, MA}{MIT Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Thicke%
+}{%
+Thicke%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+Thicke2020-THIEFM-2}
+\APACinsertmetastar {%
+Thicke2020-THIEFM-2}%
+\begin{APACrefauthors}%
+Thicke, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Evaluating Formal Models of Science} {Evaluating formal models of science}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal for General Philosophy of Science / Zeitschrift f\"{u}r Allgemeine Wissenschaftstheorie}{51}{2}{315--335}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s10838-018-9440-1} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zollman%
+}{%
+Zollman%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Zollman2010-ZOLTEB-2}
+\APACinsertmetastar {%
+Zollman2010-ZOLTEB-2}%
+\begin{APACrefauthors}%
+Zollman, K\BPBI J\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Epistemic Benefit of Transient Diversity} {The epistemic benefit of transient diversity}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Erkenntnis}{72}{1}{17--35}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s10670-009-9194-6} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Šešelja%
+}{%
+Šešelja%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+seselja2023explanations}
+\APACinsertmetastar {%
+seselja2023explanations}%
+\begin{APACrefauthors}%
+Šešelja, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {What kind of explanations do we get from agent-based models of scientific inquiry?} {What kind of explanations do we get from agent-based models of scientific inquiry?}{\BBCQ}
+\newblock
+\BIn{} H.~Andersen, T.~Marvan, H.~Chang, B.~Löwe\BCBL {}\ \BBA {} I.~Pezlar\ (\BEDS), \APACrefbtitle {Proceedings of the 16th International Congress of Logic, Methodology and Philosophy of Science and Technology.} {Proceedings of the 16th international congress of logic, methodology and philosophy of science and technology.}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
